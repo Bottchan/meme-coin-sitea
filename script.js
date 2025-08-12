@@ -2,7 +2,7 @@ const coins = {
     doge: {
         name: "Dogecoin",
         desc: "犬の柴犬がモチーフの元祖ミームコイン。2009年に冗談として作られたが人気爆発。",
-        
+         <img src="IMG_9462.jpeg" alt="Meme Coin Image" width="650">
     shiba: {
         name: "Shiba Inu",
         desc: "Ethereum上に作られた柴犬テーマのトークン。DeFiやNFTでも活用されている。",
